@@ -1,2 +1,2 @@
-# Game
-This is a car racing game 
+# PyProject
+A Python project for college
